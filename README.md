@@ -15,7 +15,6 @@ Doctors's Fee Prediction:Utilizing data sourced from Practo.com, India's leading
 The project initiated with the collection of raw data from the Practo.com.I extract the data using using Beautifulsoup and selenium libraries in python.This phase involve with web Scraping techniques to extract fee-related information,ensuring the foundation for subsequent analysis was solid.
 
 #### Step-1:
-![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/d0995003-6234-4fd5-aa14-b3ee040fea60)
 #### Step-2:
 ![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/6ecdb2d9-c3d0-4bbc-816f-f66e6067d636)
 
