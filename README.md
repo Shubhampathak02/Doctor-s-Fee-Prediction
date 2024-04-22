@@ -1,4 +1,5 @@
-![Uploading 216.jpeg…]()
+![216](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/93475a67-50fa-42f4-b91e-7d8f63d42bd4)
+
 # Model Building on Doctors-Fee-Prediction
 # Project Overview ✈️
 #### 📑 project Title: Model Building on Doctor's Fee Prediction
