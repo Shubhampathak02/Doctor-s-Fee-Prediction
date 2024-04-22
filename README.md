@@ -9,7 +9,7 @@
 #### 📆 Project start Date: 16/10/2023
 #### 📆 Project start Date: 20/10/2023
 
-#MOdel Building on Doctors's Fee Prediction 📂:
+#Model Building on Doctors's Fee Prediction 📂:
 Model Building on Doctors's Fee Prediction:Utilizing data sourced from Practo.com, India's leading integrated healthcare company, our team of data scientists, machine learning engineers, and domain experts embarked on a comprehensive project to predict doctors' fees. Through systematic collection and documentation of information, we aimed to develop a robust model for accurate fee estimation."This project was conceived and executed by a team of dedicated individuals,including Shubham pathak,Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A under the expert guidence of Manish Hemnani.
 
 ## Project Phases:
