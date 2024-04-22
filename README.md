@@ -15,11 +15,14 @@ Doctors's Fee Prediction:Utilizing data sourced from Practo.com, India's leading
 The project initiated with the collection of raw data from the Practo.com.I extract the data using using Beautifulsoup and selenium libraries in python.This phase involve with web Scraping techniques to extract fee-related information,ensuring the foundation for subsequent analysis was solid.
 
 #### Step-1:
+<img width="897" alt="step 1" src="https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/71425d99-ab91-447b-8669-a65945c2ab54">
+
 #### Step-2:
-![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/6ecdb2d9-c3d0-4bbc-816f-f66e6067d636)
+<img width="626" alt="step2" src="https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/3eb574cd-7115-4f5c-b828-c6008d5abfd5">
 
 #### Step-3:
-![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/f6e49f73-2ac2-45ac-9bad-b23ec02fa72c)
+![image](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/86321f0a-f86f-48f7-9b7b-dcef5c570db7)
+
 
 ### 2. Data Cleaning 🧹:
 Data cleaning is like tidying up a messy room before guests arrive. It involves finding and fixing mistakes, inconsistencies, and inaccuracies in a dataset, making it reliable and easy to work with. By cleaning the data, we're essentially turning a chaotic pile of information into a neat and organized format, which allows organizations to analyze it more effectively, make better decisions, and uncover valuable insights.
