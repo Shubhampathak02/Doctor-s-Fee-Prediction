@@ -1,4 +1,4 @@
-# Doctors-Fee-Prediction
+# Model Building on Doctors-Fee-Prediction
 # Project Overview ✈️
 #### 📑 project Title: Model Building on Doctor's Fee Prediction
 #### 🧒 Team Members: Shubham Pathak, Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A
@@ -7,8 +7,8 @@
 #### 📆 Project start Date: 16/10/2023
 #### 📆 Project start Date: 20/10/2023
 
-#Doctors's Fee Prediction 📂:
-Doctors's Fee Prediction:Utilizing data sourced from Practo.com, India's leading integrated healthcare company, our team of data scientists, machine learning engineers, and domain experts embarked on a comprehensive project to predict doctors' fees. Through systematic collection and documentation of information, we aimed to develop a robust model for accurate fee estimation."This project was conceived and executed by a team of dedicated individuals,including Shubham pathak,Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A under the expert guidence of Manish Hemnani.
+#MOdel Building on Doctors's Fee Prediction 📂:
+Model Building on Doctors's Fee Prediction:Utilizing data sourced from Practo.com, India's leading integrated healthcare company, our team of data scientists, machine learning engineers, and domain experts embarked on a comprehensive project to predict doctors' fees. Through systematic collection and documentation of information, we aimed to develop a robust model for accurate fee estimation."This project was conceived and executed by a team of dedicated individuals,including Shubham pathak,Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A under the expert guidence of Manish Hemnani.
 
 ## Project Phases:
 ### 1. Data Scraping :
@@ -42,9 +42,9 @@ Practo's Doctors fee prediction enhances healthcare accessibility by providing a
 we extended our sincere gratitude to Manish Hemnani for his invaluable mentorship and guidance throught this project.His expertise significantly contributed to the project's success.
 
 # Conclusion 🎳:
-"Doctors's Fee Prediction" exemplifies the power of data analyst in unraveling in intricate patternswithin a job market.This collaborative effort by Shubham Pathak, Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A underscores the significance of leveraging data for informed decision making in the India's leading integrated healthcare company.
+"Through 'Doctors' Fee Prediction,' Shubham Pathak, Sachin Lanje, Sawrav Yadav, Vishwanath J, and Farzeena P. A. showcase the transformative potential of data analysis, unraveling intricate patterns in doctors' availability. This collaborative effort underscores the importance of leveraging data for informed decision-making within India's leading integrated healthcare company."
 
-This project is a testment to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into India's leading integrated healthcare company for "Doctors's Fee Prediction".
+This project is a testment to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into India's leading integrated healthcare company for "Model Building on Doctors's Fee Prediction".
 ![image](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/49275c3b-beca-47e2-94bd-8f19fd665b5e)
 ![image](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/1354b719-153c-4b69-9ae7-f098e5947ab1)
 
