@@ -45,7 +45,11 @@ we extended our sincere gratitude to Manish Hemnani for his invaluable mentorshi
 "Doctors's Fee Prediction" exemplifies the power of data analyst in unraveling in intricate patternswithin a job market.This collaborative effort by Shubham Pathak, Sachin Lanje, Sawrav Yadav, Vishwanath j, Farzeena P A underscores the significance of leveraging data for informed decision making in the India's leading integrated healthcare company.
 
 This project is a testment to the team's commitment to excellence, and it stands as a valuable resource for anyone interested in gaining insights into India's leading integrated healthcare company for "Doctors's Fee Prediction".
-![image](https://github.com/Shubhampathak02/Job_Analyst/assets/138750345/5d81ad59-7937-42ea-ad23-0db383e5602f)
+![image](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/49275c3b-beca-47e2-94bd-8f19fd665b5e)
+![image](https://github.com/Shubhampathak02/Doctor-s-Fee-Prediction/assets/138750345/1354b719-153c-4b69-9ae7-f098e5947ab1)
+
+
+
 
 
  #### *_for more Interesting insights read the ppt file _:https://tinyurl.com/mp4bkj55
